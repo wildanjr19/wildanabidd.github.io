@@ -26,7 +26,7 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
 
 ### **Assistant Lecturer**
 **Alghoritm and Programming**
-
+---
 ## **Education**  
 🎓 **B.S. in Statistics** | Universitas Sebelas Maret | **Jul 2023 - Present**  
 
@@ -39,6 +39,7 @@ Trying to implemented machine learning alghoritm from scratch
 ### **Generative Model**
 Implemented generative model from scratch with paper implemented
 
+---
 ## **Achievements**  
 
 🏆 **1st Place** – **Dokter Data Essay Competition** | Statistic Diponegoro University 2025  
