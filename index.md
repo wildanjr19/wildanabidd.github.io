@@ -24,10 +24,20 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
 - Fine-tune IndoBERT for sentiment analysis and multi-class classification
 - Visualizing result of research
 
+### **Assistant Lecturer**
+**Alghoritm and Programming**
+
 ## **Education**  
 🎓 **B.S. in Statistics** | Universitas Sebelas Maret | **Jul 2023 - Present**  
 
 ---
+
+## Top Repositories
+### **Machine Learning From Scratch**
+Trying to implemented machine learning alghoritm from scratch
+
+### **Generative Model**
+Implemented generative model from scratch with paper implemented
 
 ## **Achievements**  
 
