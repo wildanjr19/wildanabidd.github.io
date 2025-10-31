@@ -18,7 +18,7 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
 ## **Experience**  
 
 ### **Project-Based Intern**  
-📍 **Dinas Komunikasi Informatika Statistik dan Persandian Surakarta | **Aug 2024 - Sep 2024**  
+📍 **Dinas Komunikasi Informatika Statistik dan Persandian Surakarta | Aug 2024 - Sep 2024**  
 - Project title "Analisis Sentimen dan Pemodelan Topik Sektor Kesehatan di Kota Surakarta"
 - Scrapping 10K+ data from Google Maps review
 - Fine-tune IndoBERT for sentiment analysis and multi-class classification
@@ -26,18 +26,28 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
 
 ### **Assistant Lecturer**
 **Alghoritm and Programming**
+
 ---
 ## **Education**  
 🎓 **B.S. in Statistics** | Universitas Sebelas Maret | **Jul 2023 - Present**  
 
----
 
+---
 ## Top Repositories
-### **Machine Learning From Scratch**
+### [**Machine Learning From Scratch**](https://github.com/wildanjr19/ml-from-scratch)
 Trying to implemented machine learning alghoritm from scratch
 
-### **Generative Model**
+### [**Generative Model**](https://github.com/wildanjr19/generative-model)
 Implemented generative model from scratch with paper implemented
+- Autoencoder
+- Variational Auto Encoder
+- Vector Quantization-Variational Auto Encoder (VQ-VAE)
+- Generative Adversarial Network (GAN)
+- Diffusion Model (Denoising Diffusion Probabilistic Models)
+
+
+### [**Transformers From Scratch**](https://github.com/wildanjr19/transformers-from-scratch)
+Implemented Transformers from Attention is All You Need from scratch
 
 ---
 ## **Achievements**  
@@ -45,6 +55,11 @@ Implemented generative model from scratch with paper implemented
 🏆 **1st Place** – **Dokter Data Essay Competition** | Statistic Diponegoro University 2025  
 - Implemented U-Net model for image segmentation of deforestation rate in Obi Island  
 
-🏅 **Top 6 (Finalist) SRIFOTON Machine Learning Competition 2025** | Sriwijaya University 2025  
+🏅 **Top 6 (Finalist) SRIFOTON Machine Learning Competition 2025** | Sriwijaya University 2025
+- Deep Learning: Image Classification  
 - Created a model for image lung diesase classification
 - Applied deep learning technique 
+
+🏅 **25/92th Intelecta Cup 2025** | Telkom University 2025
+- Machine Learning: Regression Analysis
+- Build model to predict average temperature
