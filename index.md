@@ -5,10 +5,9 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
 
 
 ## **Technical Skills**  
-- **Programming**: Python, R, Tableau  
-- **Data Modelling**:  
-  - **Structured Data**: Advanced  
-  - **Unstructured Data**: Intermediate  
+- Python
+- R
+ 
 
 ## **Profiles & Portfolio**  
 🔗 [**LinkedIn**](https://www.linkedin.com/in/wildanabidalhanif/) | [**GitHub**](https://github.com/willywonka19)
@@ -52,10 +51,10 @@ Implemented Transformers from Attention is All You Need from scratch
 ---
 ## **Achievements**  
 
-🏆 **1st Place** – **Dokter Data Essay Competition** | Statistic Diponegoro University 2025  
+🏆 **1st Place** – **Dokter Data Essay Competition** | Universitas Diponegoro 2025  
 - Implemented U-Net model for image segmentation of deforestation rate in Obi Island  
 
-🏅 **Top 6 (Finalist) SRIFOTON Machine Learning Competition 2025** | Sriwijaya University 2025
+🏅 **Top 6 (Finalist) SRIFOTON Machine Learning Competition 2025** | Universitas Sriwijaya 2025
 - Deep Learning: Image Classification  
 - Created a model for image lung diesase classification
 - Applied deep learning technique 
