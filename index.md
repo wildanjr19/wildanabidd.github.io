@@ -33,20 +33,19 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
 
 ---
 ## Top Repositories
-### [**Machine Learning From Scratch**](https://github.com/wildanjr19/ml-from-scratch)
-Trying to implemented machine learning alghoritm from scratch
+- 🔗 [**Machine Learning From Scratch**](https://github.com/wildanjr19/ml-from-scratch)  
+  Trying to implemented machine learning alghoritm from scratch
 
-### [**Generative Model**](https://github.com/wildanjr19/generative-model)
-Implemented generative model from scratch with paper implemented
-- Autoencoder
-- Variational Auto Encoder
-- Vector Quantization-Variational Auto Encoder (VQ-VAE)
-- Generative Adversarial Network (GAN)
-- Diffusion Model (Denoising Diffusion Probabilistic Models)
+- 🔗 [**Generative Model**](https://github.com/wildanjr19/generative-model)  
+  Implemented generative model from scratch with paper implemented  
+  - Autoencoder
+  - Variational Auto Encoder
+  - Vector Quantization-Variational Auto Encoder (VQ-VAE)
+  - Generative Adversarial Network (GAN)
+  - Diffusion Model (Denoising Diffusion Probabilistic Models)
 
-
-### [**Transformers From Scratch**](https://github.com/wildanjr19/transformers-from-scratch)
-Implemented Transformers from Attention is All You Need from scratch
+- 🔗 [**Transformers From Scratch**](https://github.com/wildanjr19/transformers-from-scratch)  
+  Implemented Transformers from Attention is All You Need from scratch
 
 ---
 ## **Achievements**  
