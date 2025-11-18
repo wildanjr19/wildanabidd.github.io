@@ -28,6 +28,7 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
 
 ### **Research Assistant**
 - Statistic modelling
+
 ---
 ## **Education**  
 🎓 **B.S. in Statistics** | Universitas Sebelas Maret | **Aug 2023 - Present**  
