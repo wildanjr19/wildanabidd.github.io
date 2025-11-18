@@ -10,7 +10,7 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
  
 
 ## **Profiles & Portfolio**  
-🔗 [**LinkedIn**](https://www.linkedin.com/in/wildanabidalhanif/) | [**GitHub**](https://github.com/willywonka19)
+🔗 [**LinkedIn**](https://www.linkedin.com/in/wildanabidalhanif/) | [**GitHub**](https://github.com/willywonka19) | [**Medium**](https://medium.com/@wildanabidd) | [**Kaggle**](https://www.kaggle.com/wildanabid19)
 
 ---
 
@@ -26,10 +26,11 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
 ### **Assistant Lecturer**
 **Alghoritm and Programming**
 
+### **Research Assistant**
+- Statistic modelling
 ---
 ## **Education**  
-🎓 **B.S. in Statistics** | Universitas Sebelas Maret | **Jul 2023 - Present**  
-
+🎓 **B.S. in Statistics** | Universitas Sebelas Maret | **Aug 2023 - Present**  
 
 ---
 ## Top Repositories
