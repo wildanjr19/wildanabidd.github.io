@@ -49,6 +49,9 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
 - 🔗 [**Transformers From Scratch**](https://github.com/wildanjr19/transformers-from-scratch)  
   Implemented Transformers from Attention is All You Need from scratch
 
+- 🔗 [**Machine Learning from Scratch**](https://github.com/wildanjr19/ml-from-scratch)  
+  Implemented machine learning alghoritm from scratch
+
 ---
 ## **Achievements**  
 
